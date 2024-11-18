@@ -1,0 +1,13 @@
+.title {
+  background-color: cadetblue;  
+  text-align: center;
+}
+
+.search {
+  color: gray;
+  border: none;
+  border-radius: 10px;
+  height: 50px;
+  width: 350px;
+  font-size: larger;
+}
